@@ -5,7 +5,7 @@
 <h1 align="center">r00tm4st3r</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=r00tm4st3r&label=Profile%20views&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://i.pinimg.com/originals/0f/7e/da/0f7edaa246cce7de5f41fd5c96fe62f4.gif" alt="Profile Views"/>
 </p>
 
 ---
