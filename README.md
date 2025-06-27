@@ -3,10 +3,24 @@
 <!-- <img src="https://yourdomain.com/banner.gif" alt="Banner GIF" width="100%"> -->
 
 <h1 align="center">r00tm4st3r</h1>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0f/7e/da/0f7edaa246cce7de5f41fd5c96fe62f4.gif" alt="Profile Views"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/0f/7e/da/0f7edaa246cce7de5f41fd5c96fe62f4.gif" alt="Hacker GIF" width="420" />
+    </td>
+    <td>
+      <h2>𝙢𝙮 𝙨𝙥𝙚𝙘𝙨/𝙤𝙨</h2>
+      <ul>
+        <li>Laptop: Lenovo Legion Pro 5 16IRx9</li>
+        <li>OS: Kali Linux</li>
+        <li>GPU: NVIDIA GeForce RTX 4070</li>
+        <li>CPU: Intel Core i9-14900HX</li>
+        <li>RAM: 32 GB</li>
+        <li>Storage: 1 TB SSD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
