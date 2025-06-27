@@ -28,8 +28,8 @@ As a red teamer mindset, I believe that to build the best defenses, you first ne
 # Get in Touch 🏴
 Feel free to reach out for collaborations, discussions, or ideas. Contact via:
 
-- 📧 Email: r00tm4st3r@proton.me  <!-- Replace with your actual email -->
-- 📷 Instagram: https://www.instagram.com/r00tm4st3r <!-- Replace with actual Instagram -->
+- Email: r00tm4st3r@proton.me  <!-- Replace with your actual email -->
+- Instagram: https://www.instagram.com/r00tm4st3r <!-- Replace with actual Instagram -->
 
 ---
 
