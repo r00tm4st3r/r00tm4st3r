@@ -2,7 +2,7 @@
 <!-- To add a GIF banner, uncomment and replace the URL below -->
 <!-- <img src="https://yourdomain.com/banner.gif" alt="Banner GIF" width="100%"> -->
 
-<h1 align="center">r00tm4st3r</h1>
+<h1 align="center">R00TM4ST3R</h1>
 <table align="center">
   <tr>
     <td>
