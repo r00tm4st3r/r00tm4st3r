@@ -13,7 +13,7 @@
 ---
 
 # Background 🏴
-I am just a curious guy who is interested in malware development, exploit development, hybrid offensive intelligence research, and understanding real world sophisticated APTs and how they operate. I’m fascinated by CVEs, zero-day exploits, and the entire lifecycle of vulnerabilities from discovery to exploitation.  
+Just a curious guy who is interested in malware development, exploit development, hybrid offensive intelligence research, and understanding real world sophisticated APTs and how they operate. I’m fascinated by CVEs, zero-day exploits, and the entire lifecycle of vulnerabilities from discovery to exploitation.  
 
 As a red teamer mindset, I believe that to build the best defenses, you first need to deeply understand the offense. While I’m not specialized, my curiosity drives me to explore advanced offensive techniques and threat actor methodologies to anticipate and counter emerging threats effectively.
 
