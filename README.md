@@ -20,10 +20,10 @@ As a red teamer mindset, I believe that to build the best defenses, you first ne
 ---
 
 # My Passions 🏴
-- **Hybrid Offensive Intelligence Research** 🏴
-- **Malware Development** 🏴
-- **Exploit Development** 🏴
-- **APT Techniques & Threat Actor Methodologies** 🏴
+- **Hybrid Offensive Intelligence Research** 
+- **Malware Development** 
+- **Exploit Development** 
+- **APT Techniques & Threat Actor Methodologies** 
 
 ---
 
