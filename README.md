@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://i.pinimg.com/originals/0f/7e/da/0f7edaa246cce7de5f41fd5c96fe62f4.gif" alt="Hacker GIF" width="420" />
+      <img src="https://pin.it/kF2NhFBnz" width="420" />
     </td>
 </table>
 
