@@ -6,11 +6,11 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://pin.it/kF2NhFBnz" width="420" />
+      <img src="https://i.pinimg.com/1200x/44/64/fa/4464fa9fa98e2bc02297d3fe688b757a.jpg" width="420" />
     </td>
 </table>
 
----
+
 
 # Background 🏴
 Just a curious guy who is interested in malware development, exploit development, hybrid offensive intelligence research, and understanding real world sophisticated APTs and how they operate. I’m fascinated by CVEs, zero-day exploits, and the entire lifecycle of vulnerabilities from discovery to exploitation.  
