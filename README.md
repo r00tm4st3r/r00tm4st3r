@@ -13,17 +13,17 @@
 
 
 # Background 🏴
-Just a curious guy who is interested in malware development, exploit development, hybrid offensive intelligence research, and understanding real world sophisticated APTs and how they operate. I’m fascinated by CVEs, zero-day exploits, and the entire lifecycle of vulnerabilities from discovery to exploitation.  
+Just a curious guy who is passionate about software development, low-level programming languages, and exploit development. I’m fascinated by how software really works, from the way code interacts with hardware to how complex systems are built and maintained.
 
-As a red teamer mindset, I believe that to build the best defenses, you first need to deeply understand the offense. While I’m not specialized, my curiosity drives me to explore advanced offensive techniques and threat actor methodologies to anticipate and counter emerging threats effectively.
+I enjoy digging into the internals of software, understanding performance, structure, and design. My curiosity drives me to explore areas such as front-end and back-end development, as well as how vulnerabilities work from discovery to exploitation.
 
+While I’m not specialized yet, I believe that to become a strong developer, you need to understand both how to build software and how it can break. That mindset keeps me learning, experimenting, and pushing my skills forward every day.
 ---
 
 # My Passions 🏴
-- **Hybrid Offensive Intelligence Research** 
-- **Malware Development** 
+- **Software Development** 
 - **Exploit Development** 
-- **APT Techniques & Threat Actor Methodologies** 
+- **Red Teaming** 
 
 ---
 
