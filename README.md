@@ -18,6 +18,7 @@ Just a curious guy who is passionate about software development, low-level progr
 I enjoy digging into the internals of software, understanding performance, structure, and design. My curiosity drives me to explore areas such as front-end and back-end development, as well as how vulnerabilities work from discovery to exploitation.
 
 While I’m not specialized yet, I believe that to become a strong developer, you need to understand both how to build software and how it can break. That mindset keeps me learning, experimenting, and pushing my skills forward every day.
+
 ---
 
 # My Passions 🏴
