@@ -44,8 +44,6 @@ Feel free to reach out for collaborations, discussions, or ideas. Contact via:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tm4st3r&show_icons=true&theme=dark)
 
-![Stargazers Streak](https://github-readme-streak-stats.herokuapp.com/?user=r00tm4st3r&theme=black-ice)
-
 ---
 
 > ⚠️ **Disclaimer**: All content and tools shared are strictly for ethical, educational, and authorized security research. Do not misuse this information.
